@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>What this is | Citizen Held Record</title>
+<link rel="stylesheet" href="assets/chr.css">
+<link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
+<script>
+(function(){try{var m=localStorage.getItem("chr-theme")||"auto";
+var d=m==="dark"||(m!=="light"&&window.matchMedia&&matchMedia("(prefers-color-scheme: dark)").matches);
+document.documentElement.setAttribute("data-theme", d?"dark":"light");}catch(e){}})();
+</script>
+
+</head>
+<body class="page-shell" data-page="what">
+<div class="top-stack">
+<div class="maple-bar" aria-hidden="true"></div>
+<div class="test-banner">Test copy. This is a preview of a redesigned register. It is not the live site, and nothing here has been published. The live register is at <a href="https://citizenheldrecord.github.io/register/">citizenheldrecord.github.io/register</a>.</div>
+<header class="site-header">
+  <div class="bar">
+    <a class="brand" href="index.html">
+      <span class="brand-kicker">Citizen Held Record</span>
+      <span class="brand-name">The Register</span>
+    </a>
+    <nav class="pages" aria-label="Pages">
+      <ol>
+        <li><a href="what.html" aria-current="page">What this is</a></li><li><a href="how.html">How it works</a></li><li><a href="coming-up.html">What's coming up</a></li><li><a href="scored.html">What's been scored</a></li><li><a href="index.html">The register</a></li><li><a href="method.html">Method</a></li><li><a href="plain-english.html">Plain English</a></li>
+      </ol>
+    </nav>
+    <div class="header-actions">
+      <button type="button" class="theme-toggle" id="theme-toggle" aria-label="Switch colour theme">Theme: auto</button>
+    </div>
+  </div>
+</header>
+
+<main class="page essay">
+<p id="load-error" hidden></p>
+<h1>What this is</h1>
+<p class="lead">This is a citizen's dated record of what governments promised and whether they delivered. Each promise is written down before the result is known: what must happen, by what date, and who answers for it. On that date it is checked against the official record and marked passed or failed. One law, one ledger: the same rule for every promise, and nothing is erased.</p>
+<div class="facts" id="facts">The full counts, with their definitions, are on <a href="index.html">the register page</a>.</div>
+<p class="small" id="built-line"></p>
+</main>
+<div class="pager"><span></span><a href="how.html">Next: How it works</a></div>
+
+<script src="assets/lib.js"></script>
+<script src="assets/pages.js"></script>
+</body>
+</html>

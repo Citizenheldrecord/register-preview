@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>What's coming up | Citizen Held Record</title>
+<link rel="stylesheet" href="assets/chr.css">
+<link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
+<script>
+(function(){try{var m=localStorage.getItem("chr-theme")||"auto";
+var d=m==="dark"||(m!=="light"&&window.matchMedia&&matchMedia("(prefers-color-scheme: dark)").matches);
+document.documentElement.setAttribute("data-theme", d?"dark":"light");}catch(e){}})();
+</script>
+
+</head>
+<body class="page-shell" data-page="coming-up">
+<div class="top-stack">
+<div class="maple-bar" aria-hidden="true"></div>
+<div class="test-banner">Test copy. This is a preview of a redesigned register. It is not the live site, and nothing here has been published. The live register is at <a href="https://citizenheldrecord.github.io/register/">citizenheldrecord.github.io/register</a>.</div>
+<header class="site-header">
+  <div class="bar">
+    <a class="brand" href="index.html">
+      <span class="brand-kicker">Citizen Held Record</span>
+      <span class="brand-name">The Register</span>
+    </a>
+    <nav class="pages" aria-label="Pages">
+      <ol>
+        <li><a href="what.html">What this is</a></li><li><a href="how.html">How it works</a></li><li><a href="coming-up.html" aria-current="page">What's coming up</a></li><li><a href="scored.html">What's been scored</a></li><li><a href="index.html">The register</a></li><li><a href="method.html">Method</a></li><li><a href="plain-english.html">Plain English</a></li>
+      </ol>
+    </nav>
+    <div class="header-actions">
+      <button type="button" class="theme-toggle" id="theme-toggle" aria-label="Switch colour theme">Theme: auto</button>
+    </div>
+  </div>
+</header>
+
+<main class="page essay">
+<p id="load-error" hidden></p>
+<h1>What's coming up</h1>
+<p id="coming-lead">These are the promises due to be scored in the next 30 days, in date order. Each is checked on its date against the official source. This list shows promises by governments and the outside files the register watches; <a href="index.html">the full table</a> lists every entry.</p>
+<h2>Past their date, not yet scored</h2>
+<div id="past-due"><p>Loading...</p></div>
+<h2 id="next-30-heading">Next 30 days</h2>
+<div id="next-30"><p>Loading...</p></div>
+<p class="small" id="built-line"></p>
+</main>
+<div class="pager"><a href="how.html">Back: How it works</a><a href="scored.html">Next: What's been scored</a></div>
+
+<script src="assets/lib.js"></script>
+<script src="assets/pages.js"></script>
+</body>
+</html>

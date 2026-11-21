@@ -1,0 +1,226 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>The Register | Citizen Held Record</title>
+<meta name="description" content="A citizen-held public record of government promises, each written as a dated test and scored PASS or FAILED against primary sources.">
+<link rel="stylesheet" href="assets/chr.css">
+<link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
+<script>
+(function(){try{var m=localStorage.getItem("chr-theme")||"auto";
+var d=m==="dark"||(m!=="light"&&window.matchMedia&&matchMedia("(prefers-color-scheme: dark)").matches);
+document.documentElement.setAttribute("data-theme", d?"dark":"light");}catch(e){}})();
+</script>
+</head>
+<body class="register-page">
+<a class="skip" href="#entries">Skip to the entries</a>
+<div class="top-stack">
+<div class="maple-bar" aria-hidden="true"></div>
+<div class="test-banner">Test copy. This is a preview of a redesigned register. It is not the live site, and nothing here has been published. The live register is at <a href="https://citizenheldrecord.github.io/register/">citizenheldrecord.github.io/register</a>.</div>
+<header class="site-header">
+  <div class="bar">
+    <a class="brand" href="index.html">
+      <span class="brand-kicker">Citizen Held Record</span>
+      <span class="brand-name">The Register</span>
+    </a>
+    <nav class="pages" aria-label="Pages">
+      <ol>
+        <li><a href="what.html">What this is</a></li>
+        <li><a href="how.html">How it works</a></li>
+        <li><a href="coming-up.html">What's coming up</a></li>
+        <li><a href="scored.html">What's been scored</a></li>
+        <li><a href="index.html" aria-current="page">The register</a></li>
+        <li><a href="method.html">Method</a></li>
+        <li><a href="plain-english.html">Plain English</a></li>
+      </ol>
+    </nav>
+    <div class="header-actions">
+      <button type="button" class="theme-toggle" id="theme-toggle" aria-label="Switch colour theme">Theme: auto</button>
+    </div>
+  </div>
+</header>
+</div>
+
+<div class="wrap">
+  <p id="load-error" hidden></p>
+  <p class="small" id="loaded-ok" hidden>Published 17 October 2026. This test copy runs entirely in the browser from data/entries.csv: no login, no tracking, and no calls except to this site's own files.</p>
+
+  <div class="lede-block">
+    <p><a href="what.html">New here? Start with what this register is</a></p>
+    <h1>The Register</h1>
+    <section class="frontdoor">
+      <h2>What this register is</h2>
+      <p class="lead">Governments often announce promises without a checkable outcome, a date and a named owner, and the process of announcing stands in for results. This register writes each promise down as a test: what counts as done, the date it is scored and who answers for it. On that date it scores the test PASS or FAILED against primary sources, and it keeps every entry, changed or not, in a public record held by citizens.</p>
+      <p class="small" id="tally-lead"></p>
+      <details class="block"><summary>Glossary of terms used on this page</summary><ul><li><b>PASS</b>: the test was met by its scoring date, read against a primary source.</li><li><b>FAILED</b>: the test was not met by its scoring date. A failed entry is published within 30 days and names the layer that blocked it.</li><li><b>LIVE</b>: the test is set and waiting for its date.</li><li><b>Open</b>: live, not scored, scoring date on or after the count date.</li><li><b>Due</b>: live, not scored, scoring date before the count date.</li><li><b>PROPOSED</b>: drafted, not yet a live test.</li><li><b>SCORED</b>: a scoring entry: a new row that records the result against an earlier promise. The old row is never edited.</li><li><b>CLOSED</b>: a promise that has been scored; it links to the row that scored it.</li><li><b>Replaced</b>: an entry superseded by a later entry with a new date or a correction. The old entry stays in the record.</li><li><b>Recorded as fact</b>: a dated fact or baseline kept in the record with no pass or fail line.</li><li><b>Repeating</b>: a test with no single scoring day.</li><li><b>Baseline</b>: a recorded starting point, not counted as PASS or FAILED.</li><li><b>OPEN (in a cell)</b>: no primary source yet shows the value; nothing is estimated.</li><li><b>DESK-SET</b>: the scoring date was chosen by this register, not by the government.</li><li><b>Blocking layer</b>: the part of the system a FAILED entry names as the reason it failed, for example executive, financing, court, regulatory or political choice.</li><li><b>Closers</b>: four land-title fixes the register records party positions on: finality with transfer phase-down; a closed-versus-open register; an ICA-equivalent screen; statutory fee-simple certainty.</li><li><b>Financed twice</b>: a corridor or project that has reached a second construction financing, used as a test of whether capital comes back.</li><li><b>Title map</b>: the map of unsettled land-title claims; a test passes when dated settlements make it smaller.</li><li><b>Master clock</b>: a desk-set reference date that several related rows are tied to.</li><li><b>Rooms</b>: summits, meetings and negotiating tables where promises are announced; what is said in a room is a lead, not a result.</li><li><b>SET-AND-WAIVED</b>: recorded fact on HR5334: the duty was set at its legal rate and then waived in writing.</li><li><b>FA5 (and other short codes)</b>: row IDs. Each ID names one test; search the table for it.</li><li><b>Hype, means and cost scores</b>: three sub-scores given when an entry is resolved, each MATCHED, MIXED, FAILED or OPEN. They never change the PASS or FAILED.</li><li><b>CASELOAD-COUPLED</b>: the budget line grows with the volume of the problem.</li><li><b>FIXED-OUTCOME</b>: the money is tied to a named deliverable or milestone.</li><li><b>TIME-LIMITED</b>: the money sunsets on a printed end date.</li><li><b>Fingerprint</b>: the SHA-256 checksum of an entry's canonical text, taken the day it goes in, so any later edit shows.</li><li><b>Set by: GOVERNMENT / DESK / MIXED / UNCLEAR</b>: who named the deadline or target. GOVERNMENT: the government, a court or the law itself. DESK: this register chose it. MIXED: an outside date with a scoring window set by the register. UNCLEAR: the row's text does not show it.</li></ul></details>
+    </section>
+  </div>
+
+  <p id="last-checked-line"></p>
+  <p class="small"><a href="simple-view/index.html">Simple view: one line per promise</a> · <a href="method.html">How the register works</a> · <a href="plain-english.html">Read the register in plain English</a></p>
+  <div id="summary-cards" class="cards" aria-label="Summary counts"></div>
+
+  <section class="timeline" id="timeline">
+    <h2>Due soon</h2>
+    <p id="timeline-lead"></p>
+    <div id="timeline-list"></div>
+  </section>
+
+  <h2 id="entries">Entries (<span id="row-total">0</span>)</h2>
+  <p>The table can be filtered by section, status and owner, and searched by any word. The whole table downloads as CSV or JSON, with nothing hidden by the filters.</p>
+    <div class="tools" role="search" id="tools">
+    <label class="grow">Search every column
+      <input type="search" id="q" placeholder="Search every column" autocomplete="off">
+    </label>
+    <label>Status
+      <select id="f-status">
+        <option value="">All statuses</option>
+        <option value="Open">Open</option>
+        <option value="Due">Due</option>
+        <option value="PASS">PASS</option>
+        <option value="FAILED">FAILED</option>
+        <option value="Recorded">Recorded</option>
+        <option value="Replaced">Replaced</option>
+        <option value="Proposed">Proposed</option>
+        <option value="Repeating">Repeating</option>
+        <option value="scoring">Scoring entries</option>
+      </select>
+    </label>
+    <label>Owner
+      <select id="f-owner"><option value="">All owners</option></select>
+    </label>
+    <label>Section
+      <select id="f-section">
+        <option value="">All sections</option>
+        <option value="government_promise">Government promises</option>
+        <option value="also_watched">Also watched</option>
+        <option value="recorded">Recorded</option>
+        <option value="CANADA">Canadian files</option>
+        <option value="DESK">This desk's own commitments</option>
+        <option value="WATCH">Outside files we watch</option>
+        <option value="RECORDED">Recorded facts and checkpoints</option>
+      </select>
+    </label>
+    <label>Test set by
+      <select id="f-setby">
+        <option value="">Anyone</option>
+        <option value="GOVERNMENT">Government</option>
+        <option value="DESK">Desk</option>
+        <option value="MIXED">Mixed</option>
+        <option value="UNCLEAR">Unclear</option>
+      </select>
+    </label>
+    <label>Scoring date from
+      <input type="date" id="f-from">
+    </label>
+    <label>Scoring date to
+      <input type="date" id="f-to">
+    </label>
+    <label>Sort
+      <select id="f-sort">
+        <option value="date-asc">Scoring date, soonest first</option>
+        <option value="date-desc">Scoring date, latest first</option>
+        <option value="id">ID</option>
+        <option value="status">Status</option>
+        <option value="owner">Owner</option>
+        <option value="section">Section</option>
+      </select>
+    </label>
+    <button type="button" class="btn" id="reset">Clear</button>
+    <button type="button" class="btn" id="dlcsv">Download CSV (whole table)</button>
+    <button type="button" class="btn" id="dljson">Download JSON (whole table)</button>
+    <span class="count" id="count"></span>
+  </div>
+
+  <div class="results-table-wrap">
+    <table class="results">
+      <thead>
+        <tr>
+          <th>ID</th>
+          <th>Test</th>
+          <th>Status</th>
+          <th>Owner</th>
+          <th>Scoring date</th>
+          <th>Section</th>
+        </tr>
+      </thead>
+      <tbody id="rows"></tbody>
+    </table>
+  </div>
+  <div class="cards-list" id="cards-list"></div>
+  <p class="small">Click a row to open every column, the sources and any linked essay. The address bar keeps a permalink of the form #row-ID.</p>
+
+  <section class="stand-box" id="tally-full">
+    <h2 id="tally-heading">The tally, counted from data/entries.csv</h2>
+    <div class="tally-wrap"><table class="tally" id="tally-table"></table></div>
+    <p id="tally-foot"></p>
+  </section>
+
+  <details class="block"><summary>Earlier last-checked lines</summary><pre class="small" id="checked-history" style="white-space:pre-wrap"></pre></details>
+
+  <p><a href="simple-view/index.html">Simple view: one line per promise</a> · <a href="method.html">How the register works</a> · <a href="plain-english.html">Read the register in plain English</a></p>
+
+  <section class="suggest" style="border:1px solid #999;padding:0.6em 0.9em;margin:1em 0"><h2>Suggest a row</h2><p>Email <a href="mailto:sovereignrealism.register@gmail.com?subject=Register%20suggestion">sovereignrealism.register@gmail.com</a> with five things:</p><ol><li>The holder's own words: the promise as they said or wrote it.</li><li>A primary source link: the official page, filing, release or statute where they said it.</li><li>The owner: who is answerable for delivering it.</li><li>What counts as delivery: the plain test of done or not done.</li><li>The date: when it was promised and when it is due.</li></ol><p>Suggestions are leads, not entries. We screen them weekly and add up to five citizen rows a week to start. Every row still needs the desk's sign-off before it goes in. Credit is given only on request.</p></section>
+
+  <div class="panel"><b>How to read this page</b><p>Each row is one public promise turned into a test. It says what counts as a pass, the one date it is scored, and who answers for it. Nothing on the page argues. The essays argue; this page keeps the score.</p><ul><li><b>LIVE</b>: the test is set and waiting for its date.</li><li><b>PROPOSED</b>: drafted, not yet a live test.</li><li><b>PASS</b> or <b>FAILED</b>: the result on the scoring date. A result is a new row; the old row is never edited. A scored row shows as CLOSED and links to the row that scored it.</li><li><b>Follow-ups</b>: a PASS is not delivery. Each promise is tracked from the very start to total completion: every PASS gets a new follow-up row testing the next real step, linked back by its follows_id and shown as (follows ID), and the chain closes only at full delivery or at a recorded FAILED.</li><li><b>Fill once</b>: a row's blank result cells are filled once, on or after its scoring date, each pointing to a dated entry added at the bottom; after that the row is frozen and any correction is a new dated entry.</li><li><b>Date basis</b>: each date source cell starts with a label. A benchmark set by the register is a date this desk chose to test a promise against; it is not a date the owner set. Other dates come from a court, statute, government, company or scheduled release.</li><li><b>OPEN</b> in a cell: not yet found in a public source. It is never filled with a guess.</li><li><b>Sections</b>: Canadian files; this desk's own commitments; outside files we watch; recorded facts and checkpoints, which are dated records rather than pass or fail tests.</li><li><b>Essay</b>: the column that names the essay that set the test, with a link once it is published.</li></ul><p><b>One worked example.</b> Row <a href="#row-HR5334">HR5334</a>. The test: which applied on 18 Oct 2026, a United States rate, a written waiver, or neither. Owner: US Administration / US Treasury. Date source: STATUTE: US Public Law 119-111 (H.R. 5334), sections 112, 113 and 115, deadline 18 Oct 2026. Result: SCORED 18 Oct 2026, recorded as fact. Essay: <a href="https://barryesharp.substack.com/p/open-files-who-sets-the-rules-before">Open Files: Who Sets the Rules Before 10 January 2027</a>.</p><p>To check a row yourself, download the CSV below and compare it with the checksum printed on this page. The rules underneath say exactly how.</p></div>
+
+
+  <section class="stand-box" id="stand">
+    <h2>Where the register stands</h2>
+    <div id="stand-body"></div>
+  </section>
+
+  <section id="essays">
+    <h2>Essays that set tests</h2>
+    <div id="essays-body"></div>
+  </section>
+
+  <section id="overlaps">
+    <h2>Possible overlaps</h2>
+    <div id="overlaps-body"></div>
+  </section>
+
+  <section id="related">
+    <h2>Related notes</h2>
+    <div id="related-body"></div>
+  </section>
+
+  <section id="faillog">
+    <h2>Failure log</h2>
+    <p>Each failure, with where it got stuck and what was chosen instead, from <a href="data/failure-log.csv">data/failure-log.csv</a>.</p>
+    <div id="faillog-body"></div>
+  </section>
+
+  <section id="keep-score">
+    <h2>Keep the score yourself</h2>
+    <p>To check a row yourself, download the CSV above and compare it with the checksum printed on this page. The rules underneath say exactly how. The same file is also at <a href="data/entries.csv">data/entries.csv</a>.</p>
+  <p class="copies" id="copies-line"></p>
+  <div class="sha">Checksum for this copy: SHA-256 of data/entries.csv (all <span id="page-count">0</span> rows)<br><span id="printed"></span><br><span id="verify"></span></div>
+
+  </section>
+</div>
+
+<div class="drawer-root" id="drawer-root" hidden>
+  <div class="drawer-backdrop" id="drawer-backdrop"></div>
+  <aside class="drawer" role="dialog" aria-modal="true" aria-labelledby="drawer-title">
+    <div class="drawer-head">
+      <h2 id="drawer-title">Entry</h2>
+      <button type="button" class="btn" id="drawer-close">Close</button>
+    </div>
+    <div id="drawer-body"></div>
+  </aside>
+</div>
+
+<footer class="copyright"><p class="small">&copy; 2026 Barry Sharp. Sovereign Realism register. Licensed under <a href="https://creativecommons.org/licenses/by/4.0/" rel="license">CC BY 4.0</a>: share and adapt with credit. Full licence text: <a href="LICENSE">LICENSE</a>.</p><p class="small">First published by Barry Sharp in 2026. Every entry is dated, archived and kept in public history on <a href="https://github.com/Citizenheldrecord/register">GitHub</a> and <a href="https://codeberg.org/citizen-held-record/register">Codeberg</a>, so the record shows who built it and when.</p></footer>
+
+<script src="assets/lib.js"></script>
+<script src="assets/register.js"></script>
+<script>
+document.addEventListener("DOMContentLoaded", function() {
+  var pre = document.getElementById("checked-history");
+  // filled after load via hook below if present
+});
+</script>
+</body>
+</html>

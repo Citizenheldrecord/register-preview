@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>The full register | Citizen Held Record</title>
+<link rel="stylesheet" href="assets/chr.css">
+<link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
+<script>
+(function(){try{var m=localStorage.getItem("chr-theme")||"auto";
+var d=m==="dark"||(m!=="light"&&window.matchMedia&&matchMedia("(prefers-color-scheme: dark)").matches);
+document.documentElement.setAttribute("data-theme", d?"dark":"light");}catch(e){}})();
+</script>
+
+</head>
+<body class="page-shell" data-page="register-door">
+<div class="top-stack">
+<div class="maple-bar" aria-hidden="true"></div>
+<div class="test-banner">Test copy. This is a preview of a redesigned register. It is not the live site, and nothing here has been published. The live register is at <a href="https://citizenheldrecord.github.io/register/">citizenheldrecord.github.io/register</a>.</div>
+<header class="site-header">
+  <div class="bar">
+    <a class="brand" href="index.html">
+      <span class="brand-kicker">Citizen Held Record</span>
+      <span class="brand-name">The Register</span>
+    </a>
+    <nav class="pages" aria-label="Pages">
+      <ol>
+        <li><a href="what.html">What this is</a></li><li><a href="how.html">How it works</a></li><li><a href="coming-up.html">What's coming up</a></li><li><a href="scored.html">What's been scored</a></li><li><a href="index.html" aria-current="page">The register</a></li><li><a href="method.html">Method</a></li><li><a href="plain-english.html">Plain English</a></li>
+      </ol>
+    </nav>
+    <div class="header-actions">
+      <button type="button" class="theme-toggle" id="theme-toggle" aria-label="Switch colour theme">Theme: auto</button>
+    </div>
+  </div>
+</header>
+
+<main class="page essay">
+<p id="load-error" hidden></p>
+<h1>The full register</h1>
+<p>The full register is the table of every entry, unchanged. It can be searched and filtered by owner, section and status.</p>
+<p><a class="btn btn-primary" href="index.html"><b>Open the full register table</b></a></p>
+<h2>The data files</h2>
+<div id="data-files"></div>
+<h2>More on the method</h2>
+<p><a href="method.html">How the register works</a> and <a href="plain-english.html">the register in plain English</a>.</p>
+<p class="small" id="built-line"></p>
+</main>
+<div class="pager"><a href="scored.html">Back: What's been scored</a><span></span></div>
+
+<script src="assets/lib.js"></script>
+<script src="assets/pages.js"></script>
+</body>
+</html>

@@ -1,0 +1,529 @@
+id,display_group,reason
+GX1b,also_watched,owner is not a government
+AB1-PL,government_promise,passes entry test
+FA3b,government_promise,passes entry test
+C39-CTTE,government_promise,passes entry test
+TR1,government_promise,passes entry test
+BC1,also_watched,"owner is not a government; test and date set by the register, not printed in a government document"
+BC-PARCELS,government_promise,passes entry test
+DGR1,government_promise,passes entry test
+S2,government_promise,passes entry test
+S7,government_promise,passes entry test
+MTL-CLOSE,government_promise,passes entry test
+IRV1,also_watched,owner is not a government
+GX2,government_promise,passes entry test
+C39-366,also_watched,"test and date set by the register, not printed in a government document"
+DSL2,government_promise,passes entry test
+FIR1,government_promise,passes entry test
+FIR2,government_promise,passes entry test
+GX4,government_promise,passes entry test
+BEC1,also_watched,"owner is not a government; test and date set by the register, not printed in a government document"
+C2/S3,also_watched,"test and date set by the register, not printed in a government document"
+P4,also_watched,"test and date set by the register, not printed in a government document"
+MD1,also_watched,"test and date set by the register, not printed in a government document"
+C4,government_promise,passes entry test
+C3/O2,also_watched,"test and date set by the register, not printed in a government document"
+FB9,government_promise,passes entry test
+FA3,also_watched,"test and date set by the register, not printed in a government document"
+C39-D1,government_promise,passes entry test
+SINGLE-TAB,government_promise,passes entry test
+DUALUSE-PAGE,government_promise,passes entry test
+CGL-EQ2,also_watched,owner is not a government
+EA-LEAVE,government_promise,passes entry test
+CAN2,government_promise,passes entry test
+C1/O1,also_watched,"test and date set by the register, not printed in a government document"
+S8,government_promise,passes entry test
+TAR1,government_promise,passes entry test
+C5/FA8/TM1,also_watched,"test and date set by the register, not printed in a government document"
+IND5-CORRIDOR,government_promise,passes entry test
+USMCA-JR1,government_promise,passes entry test
+P2,also_watched,"test and date set by the register, not printed in a government document"
+FIR3,government_promise,passes entry test
+EIB-S12,government_promise,passes entry test
+SINGLE-TAB-FY,government_promise,passes entry test
+NUCH-SCC,government_promise,passes entry test
+IND2-INCOME,government_promise,passes entry test
+FOREST-ACT-COMP,government_promise,passes entry test
+BC-DRIPA-NEXT,government_promise,passes entry test
+A1,also_watched,"test and date set by the register, not printed in a government document"
+S4,also_watched,"test and date set by the register, not printed in a government document"
+N1,also_watched,"test and date set by the register, not printed in a government document"
+FA5,also_watched,"owner is not a government; test and date set by the register, not printed in a government document"
+FA6,also_watched,"test and date set by the register, not printed in a government document"
+FA7,also_watched,"test and date set by the register, not printed in a government document"
+C39,also_watched,"test and date set by the register, not printed in a government document"
+C39-D2,government_promise,passes entry test
+O3,also_watched,"test and date set by the register, not printed in a government document"
+IND1-DEBT,government_promise,passes entry test
+IND3-TFD,government_promise,passes entry test
+IND4-INVEST,government_promise,passes entry test
+PL1,government_promise,passes entry test
+PHARA-TRIAL,government_promise,passes entry test
+A2,also_watched,"owner is not a government; test and date set by the register, not printed in a government document"
+N2,also_watched,"test and date set by the register, not printed in a government document"
+TITLE-MAP,government_promise,passes entry test
+BOOMBUST-SUNSET,government_promise,passes entry test
+BOOMBUST-CORRIDOR,also_watched,"test and date set by the register, not printed in a government document"
+HOUSING-STARTS,government_promise,passes entry test
+N3,also_watched,"test and date set by the register, not printed in a government document"
+A3,also_watched,"test and date set by the register, not printed in a government document"
+PS-330,government_promise,passes entry test
+DT1,government_promise,passes entry test
+MEGA-TEST,government_promise,passes entry test
+A4,also_watched,"test and date set by the register, not printed in a government document"
+CPL-FREEZE,also_watched,owner is not a government
+SOTF,also_watched,owner is not a government
+READING-ANNUAL,also_watched,owner is not a government
+CPL-OWNER,also_watched,owner is not a government
+CPL-CODE,also_watched,owner is not a government
+CPL-RESULT,also_watched,owner is not a government
+RWE-READ,also_watched,owner is not a government
+AI1,also_watched,"owner is not a government; test and date set by the register, not printed in a government document"
+AI2,also_watched,"owner is not a government; test and date set by the register, not printed in a government document"
+PAUSE-RECIP,also_watched,"test and date set by the register, not printed in a government document"
+AI4,also_watched,"owner is not a government; test and date set by the register, not printed in a government document"
+DSL1,government_promise,passes entry test
+SA1,also_watched,owner is not a government
+TIGER-DU,also_watched,owner is not a government
+AI3,also_watched,"owner is not a government; test and date set by the register, not printed in a government document"
+MAN1-CHK,government_promise,passes entry test
+BM1,also_watched,"test and date set by the register, not printed in a government document"
+NS1,government_promise,passes entry test
+TIGER-UKCN,government_promise,passes entry test
+TIGER-UKMFG,government_promise,passes entry test
+SA2,also_watched,owner is not a government
+HR5334,recorded,"recorded as fact, no pass line"
+AB1,recorded,"recorded as fact, no pass line"
+BoC,recorded,"recorded as fact, no pass line"
+RU1,recorded,"recorded as fact, no pass line"
+N4,recorded,"recorded as fact, no pass line"
+LEVELS2729,recorded,"recorded as fact, no pass line"
+IR1,recorded,"recorded as fact, no pass line"
+HCAP-LVL,recorded,"recorded as fact, no pass line"
+CN-GRAPH,recorded,"recorded as fact, no pass line"
+AB-REMAIN-CLOSE,recorded,"recorded as fact, no pass line"
+AB-PROCEED-TT,recorded,"recorded as fact, no pass line"
+NOV1,recorded,"recorded as fact, no pass line"
+KEB-LEAVE,recorded,"recorded as fact, no pass line"
+NS1-CHK,recorded,"recorded as fact, no pass line"
+FA1,recorded,"recorded as fact, no pass line"
+SIX-mid,recorded,"recorded as fact, no pass line"
+AB-NINE,recorded,"recorded as fact, no pass line"
+USMCA-AUTO27,recorded,"recorded as fact, no pass line"
+NPR5,recorded,"recorded as fact, no pass line"
+CPL-RESPONSE,recorded,"recorded as fact, no pass line"
+SIX-final,recorded,"recorded as fact, no pass line"
+G1/G2,recorded,"recorded as fact, no pass line"
+LIM-ORIGIN,government_promise,passes entry test
+LIM-REBUILD,government_promise,passes entry test
+ATIP-FIN-377,government_promise,passes entry test
+MIL-QUESTURA,government_promise,passes entry test
+HCAP-LVL-28,recorded,"recorded as fact, no pass line"
+XFER-UA-GRAIN,government_promise,passes entry test
+PS-330-HOLD,recorded,"recorded as fact, no pass line"
+SUNSET-BCA-5,government_promise,passes entry test
+REVIEW-BCA-24,government_promise,passes entry test
+GUAR-DARL-PA,government_promise,passes entry test
+CAP-RATIO-27,government_promise,passes entry test
+CL-BASE,recorded,"recorded as fact, no pass line"
+CL-FINAL,government_promise,passes entry test
+CL-REGISTER,government_promise,passes entry test
+CL-ICA,recorded,"recorded as fact, no pass line"
+CL-FEESIMPLE,government_promise,passes entry test
+TR-CANDU,government_promise,passes entry test
+TR-OFFTAKE,government_promise,passes entry test
+DSRB-CAP,government_promise,passes entry test
+TR-FTA-ROUND,government_promise,passes entry test
+TR-UA-PAGE,government_promise,passes entry test
+TR-DEF,government_promise,passes entry test
+UK-M6-RESP,government_promise,passes entry test
+AB1-SCORED-20261020,recorded,"recorded as fact, no pass line"
+UK-M6-RESP-2,government_promise,passes entry test
+ATIP-CIRNAC-149,government_promise,passes entry test
+BUDGET26-TABLE,government_promise,passes entry test
+CDRC-CIF,government_promise,passes entry test
+WDG-VET,also_watched,owner is not a government
+REG-PROV1,also_watched,owner is not a government
+KAMLOOPS-EXCAV,government_promise,passes entry test
+QC-SEATMATH,also_watched,owner is not a government
+GDPPC-POP,also_watched,FLAG: no primary source link in the approved row
+MFG-EMP-CA,government_promise,"passes entry test (owner, primary source link, date source)"
+EU-RETURN,government_promise,"passes entry test (owner, primary source link, date source)"
+EU-STOCK,also_watched,FLAG: no source link in the approved row
+QC-STANDARD,government_promise,"passes entry test (owner, primary source link, date source)"
+TAX-HC3,government_promise,"passes entry test (owner, primary source link, date source)"
+AID-CLOSE,government_promise,"passes entry test (owner, primary source link, date source)"
+UKR-REPAY,government_promise,"passes entry test (owner, primary source link, date source)"
+CLIM-13B,government_promise,"passes entry test (owner, primary source link, date source)"
+FA3-MVH-DEC,government_promise,"passes entry test (owner, primary source link, date source)"
+LEVELS-1NOV,recorded,"recorded as fact, no pass line"
+DNG-CAP,government_promise,"passes entry test (owner, primary source link, date source)"
+PR380-2026,government_promise,"passes entry test (owner, primary source link, date source)"
+TRARR-2026,government_promise,"passes entry test (owner, primary source link, date source)"
+PR1PCT,government_promise,"passes entry test (owner, primary source link, date source)"
+PL-EARLYWORK,also_watched,owner is not a government (proponent companies)
+PL-FID,government_promise,"passes entry test (owner, primary source link, date source)"
+PL-FULLCON,also_watched,owner is not a government (proponent companies)
+PL-INSVC,also_watched,owner is not a government (proponent companies)
+AB-Q-LEG,government_promise,"passes entry test (owner, primary source link, date source)"
+AB-Q7-BIND,government_promise,"passes entry test (owner, primary source link, date source)"
+AB-Q9-BIND,government_promise,"passes entry test (owner, primary source link, date source)"
+CTF-PL-OPEN,also_watched,owner is not only a government (proponents); FLAG: source is a secondary transcript
+TCT-TRILAT,also_watched,"FLAG: source is a news report, not a primary source; owners are foreign governments"
+TCT-GUAR,also_watched,FLAG: no source link in the approved row
+EV-GHG-TEXT,government_promise,"passes entry test (owner, primary source link, date source)"
+TR-ACTION-PLAN,government_promise,"passes entry test (owner, primary source link, date source)"
+EA-REFORM,also_watched,FLAG: no source link in the approved row
+AB1-PL-SCORED-20261022,recorded,result entry for AB1-PL (FAILED 22 Oct 2026); not a promise
+MIL-QUESTURA-C20261022,government_promise,"correction of MIL-QUESTURA (owner wording), same group as the entry it replaces"
+LIM-ORIGIN-C20261022,government_promise,"correction of LIM-ORIGIN (owner wording), same group as the entry it replaces"
+LIM-REBUILD-C20261022,government_promise,"correction of LIM-REBUILD (owner wording), same group as the entry it replaces"
+CPLOAN-SCHED,also_watched,test and date set by the register
+CROWN-LOAN-TABLE,also_watched,test set by the register; date is a government commitment
+CAN-SEED-RATE,also_watched,test and date set by the register
+C4-FILL,also_watched,test and date set by the register
+COVID-RESIDUE,also_watched,test and date set by the register
+KSM-SSD-DEC,also_watched,test and date set by the register
+C39-CTTE-SCORED-20261023,recorded,"recorded as fact, no pass line"
+FA3b-SCORED-20261023,recorded,result entry for FA3b (FAILED 23 Oct 2026); not a promise
+TR-ATA-USE,also_watched,no primary source link in the row yet
+TR-FTA-R1,government_promise,passes entry test
+TR-FTA-R1-SCHED,also_watched,no primary source link in the row yet
+COVID-RESIDUE-C20261024,also_watched,test and date set by the register
+LASER-G1,government_promise,passes entry test
+C39-REPORT,government_promise,passes entry test
+C39-ASSENT,government_promise,passes entry test
+C39-DELIVERY,government_promise,passes entry test
+AB1-OFFICIAL,government_promise,passes entry test
+Q10-NEXT,also_watched,"test and date set by the register, not printed in a government document"
+GRAHAM-RPT,also_watched,"test and date set by the register, not printed in a government document"
+BC-GOV-FORM,also_watched,"test and date set by the register, not printed in a government document"
+S338-SCOPE,government_promise,passes entry test
+HP-PERF,government_promise,passes entry test
+ETH-SCREEN-HP,government_promise,passes entry test
+REG-CITE,also_watched,"test and date set by the register, not printed in a government document"
+OTMA-S6-STRATH,government_promise,passes entry test
+STRATH-TERM,also_watched,"test and date set by the register, not printed in a government document"
+NUCH-NOA,government_promise,passes entry test
+NUCH-FACTUM,government_promise,passes entry test
+GX-AGINT,government_promise,passes entry test
+KOMOKS-S15,also_watched,"test and date set by the register, not printed in a government document"
+PA-NOTE28-27,also_watched,"test and date set by the register, not printed in a government document"
+QC-BIO-REG,also_watched,"test and date set by the register, not printed in a government document"
+PRIVACY-JOIN,government_promise,passes entry test
+STBL-REGISTRY,government_promise,passes entry test
+STBL-VOLUME,also_watched,"test and date set by the register, not printed in a government document"
+TR-CANDU-DEC,also_watched,"test and date set by the register, not printed in a government document"
+HEM-VZCU,also_watched,"test and date set by the register, not printed in a government document"
+HEM-VZPROD,also_watched,"test and date set by the register, not printed in a government document"
+HEM-ZULIA,also_watched,"test and date set by the register, not printed in a government document"
+HEM-BEJUCAL,also_watched,"test and date set by the register, not printed in a government document"
+HEM-IRAN,also_watched,"test and date set by the register, not printed in a government document"
+APF-INDEMNITY-FY27,also_watched,"test and date set by the register, not printed in a government document"
+QC-SEATMATH-L20261024,also_watched,"test and date set by the register, not printed in a government document"
+TRADE-SHARE-SEP,also_watched,"test and date set by the register, not printed in a government document"
+RWC-SHERRITT-SHIP,also_watched,"owner is a company, not a government"
+MRNA-ESMO-FULL,also_watched,"owner is a company, not a government"
+MRNA-REG-FILE,also_watched,"owner is a company, not a government"
+MRNA-OS,also_watched,"owner is a company, not a government"
+BNT122-DEATHS,also_watched,"owner is a company, not a government"
+RWC-SHERRITT-2LIC,also_watched,"owner is a company, not a government"
+CL-REG-NEWGOV,also_watched,"test set by the register, not printed in a government document; date from statute"
+BC-TITLE-MAP,also_watched,"test set by the register from a platform commitment (Conservative platform 2026 p. 46); date aligned with CL-REG-NEWGOV"
+BC-DRIPA-SPRING,also_watched,"test set by the register from a platform commitment (Conservative platform 2026 p. 46); earlier checkpoint for BC-DRIPA-NEXT; date from the Standing Orders (SO 2(2)(a) and 2(2)(b))"
+BC-81-DIRECTIVES,also_watched,"test set by the register from a platform commitment (Conservative platform 2026); same date as BC-DRIPA-SPRING; date from the Standing Orders (SO 2(2)(a) and 2(2)(b))"
+C1-C20261025,also_watched,"test and date set by the register, not printed in a government document; follows C1/O1 (narrowed 25 Oct 2026), does not replace it"
+CHARTER-LIMIT-REG,also_watched,"test and date set by the register, not printed in a government document; standalone; see also EA-REFORM (Emergencies Act only)"
+FA3c,also_watched,"date set by the register (about 60 days after the 1 Oct order), not printed in a government document; follows FA3b-SCORED-20261023"
+BND-TAR-90,also_watched,owner is not a government (desk boundary test)
+BND-PRICED,also_watched,owner is not a government (desk boundary test)
+RU-LNG-EU-2027,also_watched,"test and date set by the register, not printed in a government document"
+US-EUR-POSTURE-2026,also_watched,"test and date set by the register, not printed in a government document"
+MADURO-TRIAL-2027,also_watched,"test and date set by the register, not printed in a government document"
+CRINK-PROD-2027,also_watched,"test and date set by the register, not printed in a government document"
+DSRB-CHARTER-2027,also_watched,"test and date set by the register, not printed in a government document"
+US-TOMAHAWK-2029,also_watched,"test and date set by the register, not printed in a government document"
+CAF-STRENGTH-2032,also_watched,"test set by the register; date printed by DND on the State of the CAF page"
+DSRB-LEGAL-2027,also_watched,"test and date set by the register, not printed in a government document"
+BC-PARCELS-2027,government_promise,passes entry test
+UA-CN-ONE-PAGE,also_watched,"test and date set by the register, not printed in a government document"
+BC-DRIPA-PET,also_watched,"owner is not a government; test set by the register; date printed by Elections BC (news release 25 Jan 2027, initiative table 26 Jan 2027; scored on the later date)"
+CGL-P2-CONST,also_watched,"owner is not a government; date from the owner's own timetable (TC Energy, early 2027), end of Q1 2027 set by the register"
+CEDAR-ISD,also_watched,"owner is not a government; date from the owner's own timetable (late 2028), year end set by the register"
+KOMOKS-FED,also_watched,"test and date set by the register, not printed in a government document; no government date found"
+FA6-FID-2026,also_watched,"owner is not a government; date from the owner's own timetable (by the end of 2026), year end set by the register; follows FA6"
+EA-HEARING,also_watched,"test and date set by the register, not printed in a government document; follows EA-LEAVE"
+WATER-ZERO-LTDWA-2027,also_watched,"test and date set by the register; no government target date for zero long-term advisories found"
+C37-CHAIN-2027,also_watched,"test and date set by the register, not printed in a government document"
+EM-1,also_watched,"test set by the register; date printed by the government (Budget 2026, 5 Nov 2026, Prime Minister's remarks 26 Oct 2026); the release names no owner"
+POL-1,also_watched,"test set by the register; date printed by the government (Budget 2026, 5 Nov 2026, Prime Minister's remarks 26 Oct 2026)"
+LANE-1,also_watched,owner is not a government
+DLV-C15,government_promise,passes entry test
+DLV-C15-SCORED-20261026,recorded,result entry for DLV-C15 (PASS 26 Oct 2026); not a promise
+DLV-CTR,also_watched,"owners are a port authority and a Crown lender; date from the owners' own financing record"
+DLV-CTR-SCORED-20261026,recorded,result entry for DLV-CTR (PASS 26 Oct 2026); not a promise
+DLV-DEN,also_watched,owner is not a government
+DLV-DEN-SCORED-20261026,recorded,result entry for DLV-DEN (PASS 26 Oct 2026); not a promise
+DLV-ONLTC,government_promise,passes entry test
+DLV-ONLTC-SCORED-20261026,recorded,result entry for DLV-ONLTC (FAILED 26 Oct 2026); not a promise
+PL-DEVFUND-B26,also_watched,test set by the register; date is a government commitment
+PL-DEVFUND,also_watched,test set by the register; date is a government commitment
+CLFNS-JR,also_watched,test set by the register; owner includes a court and a First Nation
+DSRB-SIGN-2026,government_promise,passes entry test
+OE-Q1561,government_promise,passes entry test
+INDACT-PATH,also_watched,"test and date set by the register, not printed in a government document; baseline PMO release 26 Oct 2026 (path beyond the Indian Act)"
+ONRES-EMP,also_watched,"test set by the register; date is a desk estimate of the 2026 Census labour release, not a published date"
+MTL-LABEL,government_promise,passes entry test
+FIR4,government_promise,passes entry test
+MPA-3PCT-2027,government_promise,passes entry test
+CEPA-UAE-EIF,government_promise,passes entry test
+CFR-GAZ-30OCT,government_promise,passes entry test
+IRCC-REG-1,also_watched,"test set by the register; baseline IRCC opening remarks to CIMM 4 May 2026 (exit-confirmation system and review of flagged cases by the end of 2026)"
+USE-OUTSIDE,also_watched,test and date set by the register
+UK-UKR-AD-WINTER,government_promise,"passes entry test (owner, primary source link, date source)"
+UK-DEF3-PATH,government_promise,"passes entry test (owner, primary source link, date source)"
+RBT2-FAA-OCT,also_watched,"decision date printed by the applicant (port authority) as a joint commitment with government, not in a government document; follows FA3"
+ETH-LIST,government_promise,passes entry test
+PBO-DEBT-BASE,government_promise,passes entry test
+UK-FISCAL-PATH,government_promise,passes entry test
+UK-UKR-AUDIT,government_promise,passes entry test
+MRNA-NEJM-PUB,also_watched,"owner is a company, not a government"
+SOV-COMPUTE-1,government_promise,passes entry test
+CF-GAP,also_watched,"test and date set by the register, not printed in a government document; tabling clock from IRPA s.94(1); see also DNG-CAP and HCAP-LVL"
+CN-GRAPH-EXT,also_watched,prediction set by the register; owner is not a Canadian government; follows CN-GRAPH
+B26-BIA-1R,also_watched,"prediction set by the register, not printed in a government document; follows BUDGET26-TABLE"
+BCA-CLOCK,government_promise,passes entry test
+NSS-LEGIS-1Y,government_promise,passes entry test
+FUEL-EXC-SUNSET,government_promise,passes entry test
+TSTS-SUBCOMP-2031,government_promise,passes entry test
+RBT2-REGISTRY-30D,government_promise,passes entry test
+RBT2-SCHED1-GAZ,also_watched,"test and date set by the register, not printed in a government document"
+RBT2-FID-MID27,government_promise,passes entry test
+DGR-CLOSE-15JAN,also_watched,"test and date set by the register, not printed in a government document"
+COAL-EXPORT-2030,government_promise,passes entry test
+COAL-EXPORT-2030-SCORED-20261029,recorded,result entry for COAL-EXPORT-2030 (FAILED 29 Oct 2026); not a promise
+COAL-RATIONALE-PUB,government_promise,passes entry test
+EMIS-2030-TRAJ,government_promise,passes entry test
+CAN-UKL-500,government_promise,passes entry test
+CORRIDOR-FIN-2027,also_watched,"test and date set by the register, not printed in a government document"
+EU-ASSOC-DEF,also_watched,"test and date set by the register, not printed in a government document"
+CA-EU-DTA,also_watched,"test and date set by the register, not printed in a government document"
+CA-SAFE-AWARD,also_watched,"test and date set by the register, not printed in a government document"
+POL-BASE,also_watched,"test and date set by the register, not printed in a government document"
+ECA-DEF,also_watched,"test and date set by the register, not printed in a government document"
+CETA-RAT,also_watched,"test and date set by the register, not printed in a government document"
+EXCL-TABLE,also_watched,"test and date set by the register, not printed in a government document"
+SPT-CLINIC,also_watched,"test and date set by the register, not printed in a government document; see also CF-GAP and HCAP-LVL"
+EV-W2-DEC15,also_watched,test and date set by the register
+COW-STAY-DEC,also_watched,"test and date set by the register, not printed in a government document"
+CUMMINGS-TX,also_watched,owner is not a government
+RT-STATUS,recorded,"recorded as fact, no pass line"
+STBL-CRED-ONBOARD,recorded,"recorded as fact, no pass line"
+EU-ASSOC-JUNE27,government_promise,"passes entry test (owner, primary source link, date source)"
+EU-COLLEGE-MAR27,government_promise,"passes entry test (owner, primary source link, date source)"
+INDACT-BILL,also_watched,"test and date set by the register, not printed in a government document; follows INDACT-PATH"
+ARCTIC-JOINT-1,also_watched,"test and date set by the register, not printed in a government document; baseline Canada-EU joint statement 30 Oct 2026"
+MOFCOM-48-FINAL,also_watched,prediction set by the register; owner is not a Canadian government
+COINS-FINAL,also_watched,prediction set by the register; owner is not a Canadian government
+COHERE-JOBS-2030,also_watched,"test and date set by the register, not printed in a government document; baseline PMO release 29 Oct 2026 (Cohere investment)"
+EUROHPC-CA-TERMS,also_watched,"test and date set by the register, not printed in a government document; baseline EuroHPC JU statement 30 Oct 2026"
+NSS-DEF-5PCT-2035,government_promise,passes entry test
+NSS-UPDATE-4Y,government_promise,passes entry test
+MAID-MI-2027,government_promise,passes entry test
+CA-CN-REMISSION-2028,government_promise,passes entry test
+CN-EXP50-2030,also_watched,Barry go t2903u
+AB1-PL,also_watched,audit 4 Nov 2026 (pt2906u): primary prints no such date; scoring date set by the register
+C39-CTTE,also_watched,audit 4 Nov 2026 (pt2906u): primary prints no such date; scoring date set by the register
+BC-PARCELS,also_watched,audit 4 Nov 2026 (pt2906u): primary prints no such date; scoring date set by the register
+DSL2,also_watched,audit 4 Nov 2026 (pt2906u): primary prints no such date; scoring date set by the register
+FIR1,also_watched,audit 4 Nov 2026 (pt2906u): primary prints no such date; scoring date set by the register
+FIR2,also_watched,audit 4 Nov 2026 (pt2906u): primary prints no such date; scoring date set by the register
+FB9,also_watched,audit 4 Nov 2026 (pt2906u): primary prints no such date; scoring date set by the register
+C39-D1,also_watched,audit 4 Nov 2026 (pt2906u): primary prints no such date; scoring date set by the register
+SINGLE-TAB,also_watched,audit 4 Nov 2026 (pt2906u): primary prints no such date; scoring date set by the register
+DUALUSE-PAGE,also_watched,audit 4 Nov 2026 (pt2906u): primary prints no such date; scoring date set by the register
+EA-LEAVE,also_watched,audit 4 Nov 2026 (pt2906u): primary prints no such date; scoring date set by the register
+IND5-CORRIDOR,also_watched,audit 4 Nov 2026 (pt2906u): primary prints no such date; scoring date set by the register
+FIR3,also_watched,audit 4 Nov 2026 (pt2906u): primary prints no such date; scoring date set by the register
+EIB-S12,also_watched,audit 4 Nov 2026 (pt2906u): primary prints no such date; scoring date set by the register
+SINGLE-TAB-FY,also_watched,audit 4 Nov 2026 (pt2906u): primary prints no such date; scoring date set by the register
+FOREST-ACT-COMP,also_watched,audit 4 Nov 2026 (pt2906u): primary prints no such date; scoring date set by the register
+BC-DRIPA-NEXT,also_watched,audit 4 Nov 2026 (pt2906u): primary prints no such date; scoring date set by the register
+C39-D2,also_watched,audit 4 Nov 2026 (pt2906u): primary prints no such date; scoring date set by the register
+TITLE-MAP,also_watched,audit 4 Nov 2026 (pt2906u): primary prints no such date; scoring date set by the register
+BOOMBUST-SUNSET,also_watched,audit 4 Nov 2026 (pt2906u): primary prints no such date; scoring date set by the register
+MEGA-TEST,also_watched,audit 4 Nov 2026 (pt2906u): primary prints no such date; scoring date set by the register
+DSL1,also_watched,audit 4 Nov 2026 (pt2906u): primary prints no such date; scoring date set by the register
+MAN1-CHK,also_watched,audit 4 Nov 2026 (pt2906u): primary prints no such date; scoring date set by the register
+NS1,also_watched,audit 4 Nov 2026 (pt2906u): primary prints no such date; scoring date set by the register
+LIM-ORIGIN,also_watched,audit 4 Nov 2026 (pt2906u): primary prints no such date; scoring date set by the register
+LIM-REBUILD,also_watched,audit 4 Nov 2026 (pt2906u): primary prints no such date; scoring date set by the register
+ATIP-FIN-377,also_watched,audit 4 Nov 2026 (pt2906u): primary prints no such date; scoring date set by the register
+MIL-QUESTURA,also_watched,audit 4 Nov 2026 (pt2906u): primary prints no such date; scoring date set by the register
+XFER-UA-GRAIN,also_watched,audit 4 Nov 2026 (pt2906u): primary prints no such date; scoring date set by the register
+CAP-RATIO-27,also_watched,audit 4 Nov 2026 (pt2906u): primary prints no such date; scoring date set by the register
+CL-FINAL,also_watched,audit 4 Nov 2026 (pt2906u): primary prints no such date; scoring date set by the register
+CL-REGISTER,also_watched,audit 4 Nov 2026 (pt2906u): primary prints no such date; scoring date set by the register
+CL-FEESIMPLE,also_watched,audit 4 Nov 2026 (pt2906u): primary prints no such date; scoring date set by the register
+ATIP-CIRNAC-149,also_watched,audit 4 Nov 2026 (pt2906u): primary prints no such date; scoring date set by the register
+KAMLOOPS-EXCAV,also_watched,audit 4 Nov 2026 (pt2906u): primary prints no such date; scoring date set by the register
+EU-RETURN,also_watched,audit 4 Nov 2026 (pt2906u): primary prints no such date; scoring date set by the register
+QC-STANDARD,also_watched,audit 4 Nov 2026 (pt2906u): primary prints no such date; scoring date set by the register
+PR380-2026,also_watched,audit 4 Nov 2026 (pt2906u): primary prints no such date; scoring date set by the register
+TRARR-2026,also_watched,audit 4 Nov 2026 (pt2906u): primary prints no such date; scoring date set by the register
+PR1PCT,also_watched,audit 4 Nov 2026 (pt2906u): primary prints no such date; scoring date set by the register
+AB-Q-LEG,also_watched,audit 4 Nov 2026 (pt2906u): primary prints no such date; scoring date set by the register
+AB-Q7-BIND,also_watched,audit 4 Nov 2026 (pt2906u): primary prints no such date; scoring date set by the register
+AB-Q9-BIND,also_watched,audit 4 Nov 2026 (pt2906u): primary prints no such date; scoring date set by the register
+EV-GHG-TEXT,also_watched,audit 4 Nov 2026 (pt2906u): primary prints no such date; scoring date set by the register
+TR-ACTION-PLAN,also_watched,audit 4 Nov 2026 (pt2906u): primary prints no such date; scoring date set by the register
+MIL-QUESTURA-C20261022,also_watched,audit 4 Nov 2026 (pt2906u): primary prints no such date; scoring date set by the register
+LIM-ORIGIN-C20261022,also_watched,audit 4 Nov 2026 (pt2906u): primary prints no such date; scoring date set by the register
+LIM-REBUILD-C20261022,also_watched,audit 4 Nov 2026 (pt2906u): primary prints no such date; scoring date set by the register
+LASER-G1,also_watched,audit 4 Nov 2026 (pt2906u): primary prints no such date; scoring date set by the register
+C39-REPORT,also_watched,audit 4 Nov 2026 (pt2906u): primary prints no such date; scoring date set by the register
+C39-DELIVERY,also_watched,audit 4 Nov 2026 (pt2906u): primary prints no such date; scoring date set by the register
+HP-PERF,also_watched,audit 4 Nov 2026 (pt2906u): primary prints no such date; scoring date set by the register
+ETH-SCREEN-HP,also_watched,audit 4 Nov 2026 (pt2906u): primary prints no such date; scoring date set by the register
+OTMA-S6-STRATH,also_watched,audit 4 Nov 2026 (pt2906u): primary prints no such date; scoring date set by the register
+PRIVACY-JOIN,also_watched,audit 4 Nov 2026 (pt2906u): primary prints no such date; scoring date set by the register
+BC-PARCELS-2027,also_watched,audit 4 Nov 2026 (pt2906u): primary prints no such date; scoring date set by the register
+ETH-LIST,also_watched,audit 4 Nov 2026 (pt2906u): primary prints no such date; scoring date set by the register
+PBO-DEBT-BASE,also_watched,audit 4 Nov 2026 (pt2906u): primary prints no such date; scoring date set by the register
+UK-FISCAL-PATH,also_watched,audit 4 Nov 2026 (pt2906u): primary prints no such date; scoring date set by the register
+UK-UKR-AUDIT,also_watched,audit 4 Nov 2026 (pt2906u): primary prints no such date; scoring date set by the register
+SOV-COMPUTE-1,also_watched,audit 4 Nov 2026 (pt2906u): primary prints no such date; scoring date set by the register
+BCA-CLOCK,also_watched,audit 4 Nov 2026 (pt2906u): primary prints no such date; scoring date set by the register
+COAL-RATIONALE-PUB,also_watched,audit 4 Nov 2026 (pt2906u): primary prints no such date; scoring date set by the register
+EMIS-2030-TRAJ,also_watched,audit 4 Nov 2026 (pt2906u): primary prints no such date; scoring date set by the register
+CAN-UKL-500,also_watched,audit 4 Nov 2026 (pt2906u): primary prints no such date; scoring date set by the register
+HP-PERF,also_watched,"audit 4 Nov 2026 (pt2909u): premise primary only; PMO prints household savings and launch window, no measured COP evaluation promised"
+ETH-SCREEN-HP,also_watched,"audit 4 Nov 2026 (pt2909u): premise primary only; PMO/rebate pages print the program, no ethics screen disclosure promised"
+EIB-S12,also_watched,"audit 4 Nov 2026 (pt2909u): premise primary only; backgrounder prints signed EIB treaty framework, no Gazette or s.12(1) order by 31 Mar 2027 promised"
+DT1,also_watched,"audit 4 Nov 2026 (pt2909u): premise primary only; DND prints Op UNIFIER through 2029, but the PASS bar (one page with outcome, date, owner and falsifier) is the register's own"
+BC-PARCELS,also_watched,"audit 4 Nov 2026 (pt2909u): leak or press only; ~400 parcels and spring 2027 session from confidential Ministry of Forests briefing published by Northern Beat, no BC government list found"
+BC-PARCELS-2027,also_watched,"audit 4 Nov 2026 (pt2909u): leak or press only; spring 2027 session from leaked briefing (Northern Beat), no BC government bill found"
+CL-REGISTER,also_watched,"audit 4 Nov 2026 (pt2909u): leak or press only; parcel facts from leaked briefing / press, no BC government publication of the list"
+CL-FEESIMPLE,also_watched,"audit 4 Nov 2026 (pt2909u): leak or press only; parcel facts from leaked briefing / press, no BC government publication of the list"
+FOREST-ACT-COMP,also_watched,"audit 4 Nov 2026 (pt2909u): leak or press only; Forest Act facts from leaked briefing / press, no BC government publication found this run"
+OTMA-S6-STRATH,also_watched,"audit 4 Nov 2026 (pt2909u): press only (Bloomberg, The Logic, CTV); company news page shows nothing after 5 Aug 2026; no ministerial promise"
+FB9,also_watched,audit 4 Nov 2026 (pt2909u): no government promise; annex/table/page test designed by the desk
+SINGLE-TAB,also_watched,audit 4 Nov 2026 (pt2909u): no government promise; table/page test designed by the desk
+SINGLE-TAB-FY,also_watched,audit 4 Nov 2026 (pt2909u): no government promise; table/page test designed by the desk
+DUALUSE-PAGE,also_watched,audit 4 Nov 2026 (pt2909u): no government promise; page test designed by the desk
+IND5-CORRIDOR,also_watched,audit 4 Nov 2026 (pt2909u): no government promise; corridor page test designed by the desk
+BC-DRIPA-NEXT,also_watched,audit 4 Nov 2026 (pt2909u): no government promise; register-built outcome test
+TITLE-MAP,also_watched,audit 4 Nov 2026 (pt2909u): no government promise; register-built outcome test
+BOOMBUST-SUNSET,also_watched,audit 4 Nov 2026 (pt2909u): no government promise; register-built outcome test
+MEGA-TEST,also_watched,audit 4 Nov 2026 (pt2909u): no government promise; register-built outcome test
+CAP-RATIO-27,also_watched,audit 4 Nov 2026 (pt2909u): no government promise; register-built outcome test
+QC-STANDARD,also_watched,audit 4 Nov 2026 (pt2909u): no government promise; register-built outcome test
+LASER-G1,also_watched,audit 4 Nov 2026 (pt2909u): no government promise; register-built outcome test
+PRIVACY-JOIN,also_watched,audit 4 Nov 2026 (pt2909u): no government promise; register-built outcome test
+MFG-EMP-CA,also_watched,"audit 4 Nov 2026 (pt2909u): no government promise; data watch on Statistics Canada series, no promised level"
+EU-RETURN,also_watched,"audit 4 Nov 2026 (pt2909u): no government promise; data watch on Eurostat series, no promised level"
+MAN1-CHK,also_watched,"audit 4 Nov 2026 (pt2909u): no government promise; foreign police/ministry, no promise to publish"
+LIM-ORIGIN,also_watched,"audit 4 Nov 2026 (pt2909u): no government promise; foreign prosecutors/ministry, no promise to publish"
+LIM-ORIGIN-C20261022,also_watched,"audit 4 Nov 2026 (pt2909u): no government promise; correction of LIM-ORIGIN; foreign prosecutors/ministry, no promise to publish"
+MIL-QUESTURA,also_watched,audit 4 Nov 2026 (pt2909u): no government promise; test and date set by the register; leads are press only; closed by MIL-QUESTURA-C20261022-SCORED-20261031 (FAILED)
+MIL-QUESTURA-C20261022,also_watched,audit 4 Nov 2026 (pt2909u): no government promise; test and date set by the register; leads are press only
+ATIP-FIN-377,also_watched,"audit 4 Nov 2026 (pt2909u): statutory duty to answer, but deadline computed by the desk; letters private on file"
+ATIP-CIRNAC-149,also_watched,"audit 4 Nov 2026 (pt2909u): statutory duty to answer, but deadline computed by the desk; letters private on file"
+CAN-UKL-500,also_watched,"audit 4 Nov 2026 (pt2909u): amount printed only by press (Reuters via Devdiscourse); Government of Canada texts print intention to join, no amount"
+C4,also_watched,"prevention DATE fix 4 Nov 2026 (t2909u): deadline set by the desk, not printed by the government; Barry may override"
+REVIEW-BCA-24,also_watched,"prevention DATE fix 4 Nov 2026 (t2909u): deadline set by the desk, not printed by the government; Barry may override"
+DNG-CAP,also_watched,"prevention DATE fix 4 Nov 2026 (t2909u): deadline set by the desk, not printed by the government; Barry may override"
+STBL-REGISTRY,also_watched,"prevention DATE fix 4 Nov 2026 (t2909u): deadline set by the desk, not printed by the government; Barry may override"
+UK-UKR-AD-WINTER,also_watched,"prevention DATE fix 4 Nov 2026 (t2909u): deadline set by the desk, not printed by the government; Barry may override"
+PH-FTA-1119,government_promise,passes entry test
+ASEAN-FTA-1119,government_promise,passes entry test
+AB-CI-SPRING2027,government_promise,passes entry test
+NONUS-2X-2035,government_promise,passes entry test
+IR1-SCORED-20261104,recorded,"recorded as fact, no pass line"
+PROG-GDP,also_watched,benchmark set by the register (desk-set); not a government promise
+PUB-REGISTER,also_watched,benchmark set by the register (desk-set); not a government promise
+MVH-FULLFUND-B26,recorded,"publication record, Budget 2026; not scored PASS"
+DEF-4PCT-2030,government_promise,passes entry test
+OP-REASSURE-2031,government_promise,passes entry test
+FCA-OPS-FALL27,government_promise,passes entry test
+OP-BAL-2728,government_promise,passes entry test
+MI-MISSING-MIDDLE-2027,government_promise,passes entry test
+MPF-2031,recorded,"publication record, MPF renewal joint statement; not scored PASS"
+FRANCO-12PCT-2029,government_promise,passes entry test
+TR-PR-200K-2027,government_promise,passes entry test
+RBT2-CONSOL-20NOV,also_watched,"test and date set by the register, not printed in a government document"
+FA3-MVH-ORDER-DEC,also_watched,"test and date set by the register, not printed in a government document"
+SEB-SUPPLY-20261210,government_promise,"date printed in the TBS backgrounder, 6 Nov 2026"
+SEB-B-TABLE-20261106,recorded,"recorded tabling publication, not a delivery promise"
+SEB-B-TABLE-20261106-SCORED-20261106,recorded,RECORDED publication companion
+MTL-DIGID,also_watched,Desk-set review date; file section CANADA; Barry t3172u. Same date-provenance treatment as PRIVACY-JOIN and QC-BIO-REG.
+DIGID-FED,also_watched,Desk-set review date; file section CANADA; Barry t3172u. Same date-provenance treatment as PRIVACY-JOIN and QC-BIO-REG.
+QC-DIGID,also_watched,Desk-set review date; file section WATCH; Barry t3172u. Same date-provenance treatment as PRIVACY-JOIN and QC-BIO-REG.
+FOR1,also_watched,Desk-set review date; file section WATCH; Barry t3172u. Same date-provenance treatment as PRIVACY-JOIN and QC-BIO-REG.
+RU-SEMA-3824-20261109,also_watched,Desk-set scoring date (second regular Gazette Part II after 9 Nov 2026); file section CANADA; Barry t3222u.
+RCIP-5500-2027,also_watched,Desk-set scoring date (1 Nov 2028, desk arithmetic on first IRCC annual report covering calendar 2027); file section CANADA; Barry answering t3235s15692.
+CSF-NOTES-2027,also_watched,Desk-set scoring date (31 Dec 2027, desk arithmetic on the printed In 2027 launch, calendar year end); file section CANADA; Barry go t3241u.
+IR-SEMA-11-20261110,also_watched,Desk-set scoring date (second regular Gazette Part II after 10 Nov 2026); file section CANADA; Barry t3244s15746.
+CN-EFSD-MOU-20261109,recorded,"recorded as fact, no pass line"
+US-REMIT-HZ-2027,government_promise,Scoring date 1 Feb 2027 is printed on Schedule 7 as February 1, 2027; file section CANADA; Barry answering t3270s15876.
+CULTURE-4B-RECON-20270331,also_watched,"Desk-set scoring date (31 March 2027, end of fiscal year 2026-27, desk arithmetic); file section CANADA; Barry answering t3283s15956."
+AV-600-FLOW-20270331,also_watched,"Desk-set scoring date (31 March 2027, end of fiscal year 2026-27, desk arithmetic); file section CANADA; Barry answering t3283s15956."
+HK-UFRP-ALL-2027,also_watched,Desk-set scoring date (31 Dec 2027, desk arithmetic on the "2027" the IRCC 10 Nov 2026 release prints); file section CANADA; Barry go answering t3317s16137.
+BRAMP-FT-20270630,also_watched,"Desk-set scoring date (30 Jun 2027, an interval after the 9 Nov 2026 Stellantis and Roshel asset purchase announcement; not the companies' expected close by the end of 2026, not a government date); file section CANADA; Barry go t3373u."
+CN-XI-TEXT-20261120,also_watched,"Desk-set scoring date (20 Nov 2026, the day after the 11 to 19 November 2026 travel window ends; not a date printed as a government promise of a signed text); file section CANADA; Barry go t3378u."
+CEPA-INDIA-CONCL-2026,government_promise,"Government-set scoring date (31 Dec 2026, 'end of this year' / 'end of 2026' on the GAC 12 Nov 2026 readout and 21 Sep 2026 release); file section CANADA; Barry go t3386u answering t3386s16454."
+STELL-RECOVER-20270630,also_watched,"Desk-set scoring date (30 Jun 2027, aligned with BRAMP-FT-20270630; not a government date); file section CANADA; Barry go t3391u answering t3390s16484."
+C39-THIRD-20261204,also_watched,"Desk-set scoring date (4 Dec 2026, one week before the last scheduled House sitting day of 2026; not a government date); file section CANADA; Barry go t3405u."
+SEB-ASSENT-20261211,also_watched,"Desk-set scoring date (11 Dec 2026, the last scheduled House sitting day of 2026; the TBS line promises introduction by 10 Dec, not assent); file section CANADA; Barry go t3405u."
+PH-FTA-SIGN-2027,also_watched,"Desk-set scoring date (31 Dec 2027, desk arithmetic on the year printed in the PMO 14 Nov 2026 release as signature in 2027); file section CANADA; follows PH-FTA-1119; Barry go t3490s16948."
+CN-XI-UA-READOUT-20261120,also_watched,"Desk-set scoring date (20 Nov 2026, the day after the 11 to 19 November 2026 travel window ends; not a date printed as a government promise to raise Ukraine); file section CANADA; Barry go t3513s17071."
+TSAT-GEO-REFI-20261206,also_watched,"Company-record scoring date (6 Dec 2026, Telesat Term Loan B and 2026 Senior Secured Notes maturity month from the Q3 2026 6-K, day from The Globe and Mail); a company refinancing watch, not a government promise; file section CANADA; Barry go t3508s17032; ship go t3519s17111."
+LIGHTSPEED-PATHFINDER-20270930,also_watched,"Desk-set scoring date (30 Sep 2027, end of the quarter after the mid-2027 launch Telesat stated on its 30 Oct 2026 Q3 call); a company milestone watch, not a government promise; file section CANADA; Barry go t3508s17032; ship go t3519s17111."
+LIGHTSPEED-HILAT-20280331,also_watched,"Company-timetable scoring date (31 Mar 2028, end of the Q1 2028 high-latitude service start in Telesat's 29 Oct 2026 Q3 release); a company milestone watch, not a government promise; file section CANADA; Barry go t3508s17032; ship go t3519s17111."
+LIGHTSPEED-GLOBAL-20280630,also_watched,"Company-timetable scoring date (30 Jun 2028, end of the Q2 2028 global service start on Telesat's 30 Oct 2026 Q3 call); a company milestone watch, not a government promise; file section CANADA; Barry go t3508s17032; ship go t3519s17111."
+LIGHTSPEED-NONSPX-20281231,also_watched,"Desk-set scoring date (31 Dec 2028, the end of the year by which Telesat's CEO said all satellites will be in orbit; no date printed for a non-SpaceX launch); a company watch, not a government promise; file section CANADA; Barry go t3508s17032; ship go t3519s17111."
+ETH-SCREEN-TSAT-20261231,also_watched,"Desk-set scoring date (31 Dec 2026, about seven weeks after the Prime Minister's 13 Nov 2026 request for a screen; no date printed by either office); registry baseline 14 Nov 2026 shows no screen covering Telesat or Goldberg; file section CANADA; Barry go t3508s17032; entered sourced to the registry on go t3522s17126."
+AB-OGP-SPRING2027,government_promise,"Government-set scoring date (21 Jun 2027, desk arithmetic for the end of ""spring of 2027"" printed in the Alberta 13 Nov 2026 release, same convention as AB-CI-SPRING2027); file section CANADA; Barry go t3543u."
+FBBAN-EXT-20270101,government_promise,"Statute-set scoring date (1 Jan 2027, desk arithmetic from Budget Implementation Act, 2022, No. 1, s. 237(2), the fourth anniversary of 1 Jan 2023); file section CANADA; Barry go answering t3629s17580."
+CA-CN-AQUATIC-20261231,government_promise,"Government-set scoring date (31 Dec 2026, the end of the year printed as ""by the end of this year"" in the GAC backgrounder, date modified 2026-11-16); file section CANADA; Barry go t3640u."
+CN-SEAFOOD-PORK-RELIEF-2027,also_watched,"Desk-set scoring date (31 Dec 2026, the day before the PMO start date of 1 Jan 2027); GAC prints a different start date, 1 Jan 2026; both shown (t2788u); file section CANADA; Barry go t3640u."
+AB-BILL40-BOUNDARIES-2027,government_promise,"Government-set scoring date (18 Oct 2027, printed in the Alberta 16 Nov 2026 release as ""scheduled to be held Oct. 18, 2027""); file section CANADA; Barry go answering widget t3667s17772, recorded as the t3667 widget / t3667u."
+EU-CN-GOODS-2026,also_watched,"Desk-set scoring date (30 Apr 2027, the register's scoring date for Eurostat's first full-year 2026 figure, not printed in a government document); file section WATCH; Barry go t3719u."
+EU-SIMPL-375,also_watched,"Desk-set scoring date (31 Dec 2029, the register's scoring date for the Commission's 2024-2029 administrative-cost-cut target, not printed as a scoring date in a government document); file section WATCH; Barry go t3719u."
+ISC-PIRUTS-20270401,government_promise,"Government-set scoring date (1 Apr 2027, printed in the ISC 18 Nov 2026 release as ""Pirutsiagutiit will launch on April 1, 2027""); file section CANADA; Barry go t3740s18131."
+AB-CAREFIRST-20270101,government_promise,"Government-set scoring date (1 Jan 2027, printed in the Alberta 17 Nov 2026 release as ""implementation of Care-First auto insurance on Jan. 1, 2027""); file section CANADA; Barry go t3740s18131."
+CPP-BASE-475-2027,government_promise,"Government-set scoring date (1 Jan 2027, printed in the SI/2026-62 explanatory note as effective January 1, 2027); file section CANADA; Barry go t3740s18131."
+BIZPAL-PT-FALL2028,government_promise,"Government-set scoring date (21 Dec 2028 is desk arithmetic for the end of ""fall 2028"" printed in the TBS 17 Nov 2026 statement Quick Facts; the release prints only ""fall 2028""); file section CANADA; Barry go t3740s18131."
+IRV1-SCORED-20261118,recorded,result entry for IRV1 (FAILED 18 Nov 2026); not a promise
+EU-ICSU-EUCO-20261127,also_watched,"Desk-set test (agreement at the Special European Council, 26-27 November 2026; the printed promise is to present the proposal); file section WATCH; Barry go t3747s18197 / t3747u."
+EU-ICSU-OJ-20261231,also_watched,Desk-set scoring date (31 Dec 2026; no adoption date printed); file section WATCH; Barry go t3747s18197 / t3747u.
+EU-ICSU-MFF-20261231,also_watched,Desk-set scoring date (31 Dec 2026; no adoption date printed); file section WATCH; Barry go t3747s18197 / t3747u.
+EU-UA-INTEREST-MFF-20271231,also_watched,"Desk-set scoring date (31 Dec 2027, the day before the 2028 costs start per the Commission); file section WATCH; Barry go t3747s18197 / t3747u."
+EU-SANC22-20261127,government_promise,"Government-set scoring date (27 Nov 2026 is desk arithmetic for the Friday of ""next week"" printed in the 18 Nov 2026 Commission press point); file section WATCH; Barry go t3747s18197 / t3747u."
+CN-RU-US-DECL-20261119,recorded,"recorded as fact, no pass line"
+CN-RU-US-NUCDIAL-20270519,also_watched,"Desk-set scoring date (19 May 2027, six months to the day after the 19 Nov 2026 declaration; no date in the source); file section WATCH; Barry go t3755s18248 / t3755u."
+CN-RU-US-REFINED-20270930,also_watched,"Desk-set scoring date (30 Sep 2027, after EIA Petroleum Supply Monthly for June 2027, the latest of the three sources; no date in the source); file section WATCH; Barry go t3755s18248 / t3755u."
+GEB-TOPUP-JAN2027,government_promise,"Government-set scoring month (31 Jan 2027 is desk arithmetic for the last day of ""January 2027"", the month specified in Bill C-42 first reading text, 18 Nov 2026); file section CANADA; Barry go t3775s18403."
+AB-RACAS-20270401,government_promise,"Government-set scoring date (1 Apr 2027, printed in the Alberta 18 Nov 2026 release as ""new wells drilled after April 1, 2027"", hedged ""If passed"" and ""expected to apply""); file section CANADA; Barry go t3775s18403."
+GC-CDR-10M-2030,government_promise,"Government-set horizon (31 Dec 2030 is desk arithmetic for ""between now and 2030"" in the TBS 9 Oct 2024 release, restated ""by 2030"" on 19 Nov 2026); file section CANADA; Barry go t3775s18403."
+GX-REPLY-1218,government_promise,"Court-set scoring date (18 Dec 2026, printed in the SCC 42200 Chief Justice order of 14 Oct 2026 as ""on or before December 18, 2026""); file section CANADA; Barry go t3788s18478."
+EU-WASTE-LIST-1121,government_promise,"Commission-set scoring date (21 Nov 2026, printed on the DG Environment implementation page); file section WATCH; Barry go t3788s18478."
+
+C10-CMTI-APPT-20270630,also_watched,the Act and the CIRNAC release set no appointment date; 30 Jun 2027 is set by the register (DESK-SET); file section CANADA; Barry go t3820s18640 / t3820u.
+TC-SSM-PORT-35MT-2031,also_watched,"the Transport Canada 20 Nov 2026 release prints ""by 2031"" with no day; 31 Dec 2031 is set by the register (DESK-SET); file section CANADA; Barry go t3847s18778 / t3847u."
+EU-UK-TUITION-20270520,also_watched,"the EU-UK summit joint statement of 20 Nov 2026 prints ""within six months from the date of the summit"" with no day; 20 May 2027 is set by the register (DESK-SET); file section WATCH; Barry go t3847s18778 / t3847u."
+DSRB-TABLED-20261216,also_watched,"Desk-set scoring date (17 Dec 2026, the day after the 16 Dec 2026 adjournment tabling day; the treaty tabling policy sets no deadline); file section CANADA; follows DSRB-SIGN-2026; Barry go t3861u."
+GX-HEARD-20270120,also_watched,"Desk-set scoring date (21 Jan 2027, the day after the second scheduled hearing day on the SCC 42200 docket); file section CANADA; follows GX2; Barry go t3861u."
+RBT2-CONSOL-20NOV-SCORED-20261120,recorded,result entry for RBT2-CONSOL-20NOV (FAILED 20 Nov 2026); not a promise; Barry go t3870u.
+C39-REPORT-SCORED-20261120,recorded,result entry for C39-REPORT (FAILED 20 Nov 2026); not a promise; Barry go t3872u.
+ASEAN-FTA-1119-SCORED-20261120,recorded,result entry for ASEAN-FTA-1119 (FAILED 20 Nov 2026); not a promise; Barry go t3872u.
+CN-XI-TEXT-20261120-SCORED-20261120,recorded,result entry for CN-XI-TEXT-20261120 (FAILED 20 Nov 2026); not a promise; Barry go t3872u.
+CN-XI-UA-READOUT-20261120-SCORED-20261120,recorded,result entry for CN-XI-UA-READOUT-20261120 (FAILED 20 Nov 2026); not a promise; Barry go t3872u.
+CPSP-CONTRACT-20271231,government_promise,"passes entry test; PMO 6 July 2026 prints ""no later than the end of 2027""; scoring date 31 Dec 2027 is that deadline; file section CANADA; Barry go t3895u."
+CPSP-FIRST4-2034,also_watched,"the PMO 6 July 2026 release prints ""in 2034"" with no day; 31 Dec 2034 is set by the register (DESK-SET); file section CANADA; Barry go t3895u."
+UK-EXCL-PAGE-20270520,also_watched,test and date set by the register: 20 May 2027 is the six-month tuition clock of the 20 Nov 2026 joint statement applied by the desk (DESK-SET); no government promise of an exclusions page; file section WATCH; Barry go t3905u.
+UK-YES-TERMS-20271231,also_watched,"the YES explainer prints ""before the agreement is signed"" with no calendar date; 31 Dec 2027 is set by the register (DESK-SET); file section WATCH; Barry go t3905u."
+UK-SPS-EXPORTS-20290331,also_watched,outcome test set by the register: the government prints no 2028 export target; 31 Mar 2029 is the first annual-data date after the SPS agreement applies from 1 March 2028 (DESK-SET); file section WATCH; Barry go t3905u.
+ACAFTA-SIGN-2027,also_watched,"Desk-set scoring date (31 Dec 2027, desk arithmetic on the year printed in the PMO 14 Nov 2026 release as signing the agreement in 2027); file section CANADA; follows ASEAN-FTA-1119; Barry go t3926u."
+BC-FIN-REVIEW,also_watched,"Desk-set scoring date (28 Feb 2027, desk arithmetic on swearing-in 20 Nov 2026 plus 100 days, per T-061); test set from the Conservative Party of BC 2026 platform; file section CANADA; Barry go t3926u."
+BDN-FID-2027,also_watched,"Company timetable: the 20 Nov 2026 NRCan release prints FID in early 2027 with no day; 31 Mar 2027 is set by the register (first quarter); file section CANADA; Barry go t3926u."
